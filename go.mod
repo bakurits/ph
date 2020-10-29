@@ -1,4 +1,4 @@
-module ph
+module github.com/bakurits/ph
 
 go 1.15
 
